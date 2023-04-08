@@ -1,10 +1,11 @@
 # DenoDemo - Using Deno & NPM
 
-Run a simple web server using Deno and NPM packages.
+Run a simple web server using Deno and the express.js NPM package. You will not
+have to install package.json or node_modules.
 
 ## Prerequisites
 
-Have Deno 1.32.3 installed.
+Have Deno 1.32.3 and npm 8.5.5 or later installed.
 
 ## Usage
 
